@@ -1,0 +1,42 @@
+.box1{
+    color:red;
+    background-color:antiquewhite;
+    font-size: 50px;
+    line-height:2em
+}
+.container{
+    width:80%;
+    margin:auto;
+    border:5px black solid;
+}
+body{
+    background-color: #d4f4e4
+
+    font-weight: bold;
+}
+button{
+    background-color:#456789
+}
+button:hover{
+    background-color:red;
+}
+button:active{
+    background-color:green;
+}
+a{
+    text-decoration:none;
+    color:#555555
+}
+.block{
+    float:left;
+    width:30%;
+    border:1px solid #ccc
+}
+.clearfix{
+    clear both;
+}
+#fix {
+    position:fixed;
+    right:0;
+    bottom:0;
+}
